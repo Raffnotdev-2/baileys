@@ -1,6 +1,6 @@
-# XATANICAL BAILEYS 
+# XWAR BAILEYS 
 <p align='center'>
-  <img src="https://files.catbox.moe/csi162.png" width="540">
+  <img src="[https://qu.ax/RpLjG.jpg]" width="540">
 </p>
 
 --- 
@@ -48,5 +48,5 @@ console.log("Ur pairing code : " + code)
 ```
 
 
-Follow https://t.me/xatanicvxii 
-Untuk Join Partnership !
+Follow https://t.me/xwarrxxx
+
